@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\bin\Debug\net6.0\DZ_Itog.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\bin\Debug\net6.0\DZ_Itog.deps.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\bin\Debug\net6.0\DZ_Itog.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\bin\Debug\net6.0\DZ_Itog.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\bin\Debug\net6.0\DZ_Itog.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\refint\DZ_Itog.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\DZ_Itog.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\itog\DZ_Itog\obj\Debug\net6.0\ref\DZ_Itog.dll
